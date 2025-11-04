@@ -70,7 +70,7 @@ $$\mathcal{A}_{\text{draw}} = \{\text{Draw}\}$$
 **Legal Action Set:**
 
 $$
-playable(c,Tt)=(color(c)=color(Tt))  ∨  (rank(c)=rank(Tt))
+playable(c,T^t)=(color(c)=color(T^t))  ∨  (rank(c)=rank(T^t))
 $$
 
 For state $s_t$ with Player 1's turn ($\text{turn}^t = 1$), define $\mathcal{A}_{\text{legal}}(s_t) \subseteq \mathcal{A}$:
