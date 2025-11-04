@@ -78,7 +78,7 @@ For state $s_t$ with Player 1's turn ($\text{turn}^t = 1$), define $\mathcal{A}_
 $$
 \mathcal{A}_{\text{legal}}(s_t)=
 \begin{cases}
-\{\, c \in H_1^t \mid \text{playable}(c,T^t) \,\}, & \text{if } \exists\, c \text{ playable} \\
+\{\ c \in H_1^t \mid \text{playable}(c,T^t) \\}, & \text{if } \exists\ c \text{ playable} \\
 \{\text{Draw}\}, & \text{otherwise}
 \end{cases}
 $$
