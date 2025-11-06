@@ -66,6 +66,7 @@ $$\mathcal{A}_{\text{play}} = c$$
 $$\mathcal{A}_{\text{draw}} = \{\text{Draw}\}$$
 
 - Draws one card normally
+  
 **Legal Action Set:**
 
 $$
